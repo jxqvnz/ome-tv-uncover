@@ -170,7 +170,7 @@ Distributed under the **MIT License**. See `LICENSE` for more information.
 
 <div align="center">
 
-**Made with 🖤 by [your-username](https://github.com/your-username)**
+**Made with 🖤 by [jxqvnz](https://github.com/jxqvnz)**
 
 *Star ⭐ this repo if you found it useful!*
 
